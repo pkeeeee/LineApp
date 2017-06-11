@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/gloria/.android/build-cache/f2da6b3cd169d91c727204e8ff2032f36b845d53/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/gloria/AndroidStudioProjects/LineApp/app/build/intermediates/pre-dexed/debug/classes_15120c38a4fb6073a68c758a4e4ef8df8c87ce24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gloria/.android/build-cache/9fb52b1853bada377a12552de887e489f5efd888/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/gloria/AndroidStudioProjects/LineApp/app/build/intermediates/pre-dexed/debug/classes_526acfb3e05bc376c7c7fbcd96a87de434e0ad7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gloria/.android/build-cache/436fe93237b1b480a9a708f957e424c1399c3595/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/gloria/AndroidStudioProjects/LineApp/app/build/intermediates/pre-dexed/debug/classes_8529e503684646250a96d55e955090a5fc4d0816.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gloria/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/gloria/AndroidStudioProjects/LineApp/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_d98c08a24a23b379c39671680fdbbda55eaa9d33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gloria/.android/build-cache/76ea8010cccc5a10fec8bbe25d134b99f1258516/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/gloria/AndroidStudioProjects/LineApp/app/build/intermediates/pre-dexed/debug/classes_0d15cb0c25cf8bface31687639c78a2c959dbd03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gloria/.android/build-cache/51b5d52111800a3a07e3b34c49423c0e9a5fcf2d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/gloria/AndroidStudioProjects/LineApp/app/build/intermediates/pre-dexed/debug/classes_879bfcef191d7e7e8338f0cb3bee19a275fd52cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gloria/.android/build-cache/7c75eb0eaf1478fba14244b793e7f5d7fb886750/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/gloria/AndroidStudioProjects/LineApp/app/build/intermediates/pre-dexed/debug/classes_39c0d0f6cfb013875954afe4e6fa9856f545a884.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gloria/.android/build-cache/1bb560cf3d31976a67c922896ccb02c9791e6c27/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/gloria/AndroidStudioProjects/LineApp/app/build/intermediates/pre-dexed/debug/classes_fe88839d21563071f3e33138152040a2936c4937.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gloria/.android/build-cache/3dae01b079c374aec8eb9c176ff3a4300566c098/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/gloria/AndroidStudioProjects/LineApp/app/build/intermediates/pre-dexed/debug/classes_0f7381caeec4006bf3fcf2be7bff92f0a21f6329.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gloria/.android/build-cache/86a6e7495d542518e063b8f5c33e5e79c51c4a5c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/gloria/AndroidStudioProjects/LineApp/app/build/intermediates/pre-dexed/debug/classes_175573819486a789f615e5a35f9887e1b54e0e2b.jar" />
+    </item>
+
+</items>
